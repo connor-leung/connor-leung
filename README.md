@@ -35,4 +35,4 @@ Email: connor.leung@queensu.ca
 [Click here to view my Website](http://www.connorleung.com)
 
 ## Fun Fact
-I Like to play tennis and squash! 🎾
+I like to play tennis and squash! 🎾
