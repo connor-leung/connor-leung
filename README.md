@@ -21,8 +21,6 @@ I'm a full-stack developer currently studying Computer Engineering at Queen's Un
 Currently, I'm expanding my horizons by diving into the realms of artificial intelligence, focusing on mastering Large Language Models (LLMs) and exploring the capabilities of computer vision to make even cooler projects!
 
 ## Achievements 
-
-## Achievements 
 **QHacks 2024** | Received Mayor's Innovation Challenge Award
 
 ## Feel Free to Reach Out
