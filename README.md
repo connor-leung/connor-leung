@@ -16,7 +16,11 @@ Here are some ideas to get you started:
 # Hi there, I'm Connor Leung 👋
 
 ## About Me
-I'm currently a Computer Engineering student at Queen's University with a passion for using technology to innovate further and ignite entrepreneurship. 
+I'm a full-stack developer currently studying Computer Engineering at Queen's University with a passion for using technology to innovate further and ignite entrepreneurship.
+
+Currently, I'm expanding my horizons by diving into the realms of artificial intelligence, focusing on mastering Large Language Models (LLMs) and exploring the capabilities of computer vision to make even cooler projects!
+
+## Achievements 
 
 ## Achievements 
 **QHacks 2024** | Received Mayor's Innovation Challenge Award
