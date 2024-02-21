@@ -19,17 +19,18 @@ Here are some ideas to get you started:
 I'm currently a Computer Engineering student at Queen's University with a passion for using technology to innovate further and ignite entrepreneurship. 
 
 ## Achievements 
-- **QHacks 2024** Received Mayor's Innovation Challenge Award
+**QHacks 2024** | Received Mayor's Innovation Challenge Award
 
 ## Feel Free to Reach Out
-- [LinkedIn](https://www.linkedin.com/in/connorleung/)
-- Email: connor.leung@queensu.ca
+LinkedIn: [ConnorLeung](https://www.linkedin.com/in/connorleung/)
+
+Email: connor.leung@queensu.ca
 
 ## Resume
-- [View my Resume](https://drive.google.com/file/d/1GyXQaNuuA8Q71N557TXbyG9LZI4-DcsU/view?usp=sharing)
+[View my Resume](https://drive.google.com/file/d/1GyXQaNuuA8Q71N557TXbyG9LZI4-DcsU/view?usp=sharing)
 
 ## Personal Website
-- [Visit my Website](http://connorleung.com)
+[Visit my Website](http://www.connorleung.com)
 
 ## Fun Fact
-I Like to play tennis and squash!
+I Like to play tennis and squash! 
