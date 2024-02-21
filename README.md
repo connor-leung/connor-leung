@@ -21,12 +21,6 @@ I'm currently a Computer Engineering student at Queen's University with a passio
 ## Achievements 
 - **QHacks 2024** Received Mayor's Innovation Challenge Award
 
-## Technologies & Tools
-*Please add the technologies and tools you're familiar with or learning here.*
-
-## Projects
-*You can showcase any projects you've worked on here. Provide a brief description and link to the repository.*
-
 ## Feel Free to Reach Out
 - [LinkedIn](https://www.linkedin.com/in/connorleung/)
 - Email: connor.leung@queensu.ca
