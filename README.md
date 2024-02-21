@@ -31,10 +31,10 @@ LinkedIn: [ConnorLeung](https://www.linkedin.com/in/connorleung/)
 Email: connor.leung@queensu.ca
 
 ## Resume
-[View my Resume](https://drive.google.com/file/d/1GyXQaNuuA8Q71N557TXbyG9LZI4-DcsU/view?usp=sharing)
+[Click here to view my Resume](https://drive.google.com/file/d/1GyXQaNuuA8Q71N557TXbyG9LZI4-DcsU/view?usp=sharing)
 
 ## Personal Website
-[Visit my Website](http://www.connorleung.com)
+[Click here to view my Website](http://www.connorleung.com)
 
 ## Fun Fact
-I Like to play tennis and squash! 
+I Like to play tennis and squash! 🎾
