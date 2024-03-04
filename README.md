@@ -22,6 +22,7 @@ Currently, I'm expanding my horizons by diving into the realms of artificial int
 
 ## Achievements 
 **QHacks 2024** | Received Mayor's Innovation Challenge Award
+**QTMA x McKinsey Pitch 2024** | First place winner
 
 ## Feel Free to Reach Out
 LinkedIn: [ConnorLeung](https://www.linkedin.com/in/connorleung/)
