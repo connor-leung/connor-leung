@@ -17,10 +17,10 @@ LinkedIn: [Connor Leung](https://www.linkedin.com/in/connorleung/)
 Email: connor.leung@queensu.ca
 
 ## Resume
-[Click here to view my Resume](https://drive.google.com/file/d/1ujApWKJwFCcMDEcoRTtz_ybMyLbkLGtp/view?usp=sharing)
+[Click here to view my Resume](https://docs.google.com/document/d/1HG9KRqxRuQ8tYFdWamUUT06R7i9IRJYdKa32_7pux_g/edit?usp=sharing)
 
 ## Personal Website
-[Click here to view my Website](http://www.connorleung.com)
+[Click here to view my Website](http://connorleung.com)
 
 ## Fun Fact
 I like photography and playing tennis! 🎾
