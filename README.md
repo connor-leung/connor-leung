@@ -2,7 +2,7 @@
 
 ## About Me
 I'm a full-stack developer currently studying Computer Engineering at Queen's University with a passion for using technology to innovate further and ignite entrepreneurship.
-- 🔭 I’m currently working on [Sequin Health](https://sequinhealth.ca), a platform that uses machine learning to match patients to the right therapist.
+- 🔭 I’m currently working on [Sequin Health](https://sequinhealth.ca), a platform that leverages a matching algorithm to connect patients to the right therapist.
 
 ## Achievements 
 **QHacks 2024** - [Dionysus](https://devpost.com/software/god-s-eye-tv7hz8) | Received Mayor's Innovation Challenge Award
