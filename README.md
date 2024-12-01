@@ -7,9 +7,11 @@ I'm a full-stack developer currently studying Computer Engineering at Queen's Un
 -->
 
 ## Achievements 
-**QHacks 2024** - [Dionysus](https://devpost.com/software/god-s-eye-tv7hz8) | Received Mayor's Innovation Challenge Award
+**QTMA Fall Demo Day 2024** - [FujiPlans](https://fujiplans.com) | First Place Winner
 
-**QTMA x McKinsey Pitch 2024** - [Dilliad](https://drive.google.com/file/d/1bKyXS41e83-yFnz-H0mG_6YEOsZKts6B/view?usp=drive_link) | First place winner
+**QTMA x McKinsey Pitch 2024** - [Dilliad](https://drive.google.com/file/d/1bKyXS41e83-yFnz-H0mG_6YEOsZKts6B/view?usp=drive_link) | First Place Winner
+
+**QHacks 2024** - [Dionysus](https://devpost.com/software/god-s-eye-tv7hz8) | Received Mayor's Innovation Challenge Award
 
 **Schulich Leader 2022 Scholarship** - [Post](https://www.linkedin.com/feed/update/urn:li:activity:7049048391330238464/)
 
