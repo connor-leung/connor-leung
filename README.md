@@ -29,6 +29,4 @@ Email: connor.leung@queensu.ca
 ## Fun Facts
 I like photography and playing tennis! 🎾
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=connor-leung)](https://git.io/streak-stats)
-
 [![My Skills](https://skillicons.dev/icons?i=js,ts,py,java,c,react,nextjs,fastapi,html,css,mongodb,postgres,azure,gcp,figma)](https://skillicons.dev)
