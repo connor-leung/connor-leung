@@ -7,6 +7,8 @@ I'm a full-stack developer currently studying Computer Engineering at Queen's Un
 -->
 
 ## Achievements 
+**Shopify Shop Mini Hackathon 2025** - [Mini Mini games](https://drive.google.com/file/d/1Jzu5GdohLMxO0f3fSZJqXzSZDeWlyxB7/view) | Invited to ship app into the Shop App
+
 **QTMA Fall Demo Day 2024** - [FujiPlans](https://fujiplans.com) | First Place Winner
 
 **QTMA x McKinsey Pitch 2024** - [Dilliad](https://drive.google.com/file/d/1bKyXS41e83-yFnz-H0mG_6YEOsZKts6B/view?usp=drive_link) | First Place Winner
