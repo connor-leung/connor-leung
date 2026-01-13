@@ -9,7 +9,7 @@ I'm a full-stack developer currently studying Computer Engineering at Queen's Un
 ## Achievements 
 **Shopify Shop Mini Hackathon 2025** - [Mini Mini games](https://drive.google.com/file/d/1TPEOxkoQP7pX4vgtkfQnZO-scy6GmY96/view?usp=drive_link) | Invited by Shopify to deploy the project to the Shop App (available on the App Store)
 
-**QTMA Fall Demo Day 2024** - [FujiPlans](https://fujiplans.com) | First Place Winner
+**QTMA Fall Demo Day 2024** - [FujiPlans](https://github.com/connor-leung/fujiplans) | First Place Winner
 
 **QTMA x McKinsey Pitch 2024** - [Dilliad](https://drive.google.com/file/d/1bKyXS41e83-yFnz-H0mG_6YEOsZKts6B/view?usp=drive_link) | First Place Winner
 
