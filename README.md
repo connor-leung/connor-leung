@@ -6,10 +6,6 @@
 [![Portfolio](https://img.shields.io/badge/connorleung.com-000000?style=flat-square&logo=safari&logoColor=white)](http://connorleung.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/connorleung/)
 
----
-
-currently lost in the cloud ☁️
-
 ## Building
 
 **[IBMxVercel Integration](https://github.com/connor-leung/ibmcloudvercel)** — Bringing the ease of Vercel to IBM Cloud  
