@@ -9,6 +9,7 @@ I'm a full-stack developer currently studying Computer Engineering at Queen's Un
 ## Currently Building
 
 [IBMCloudVercel](https://github.com/connor-leung/ibmcloudvercel)
+
 [Shop the Frame](https://www.linkedin.com/feed/update/urn:li:activity:7419083506473041920/) 
 
 ## Achievements 
