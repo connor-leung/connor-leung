@@ -6,6 +6,11 @@ I'm a full-stack developer currently studying Computer Engineering at Queen's Un
 - 🔭 I’m currently working on [Sequin Health](https://sequinhealth.ca), a platform that leverages a matching algorithm to connect patients to the right therapist.
 -->
 
+## Currently Building
+
+[IBMCloudVercel](https://github.com/connor-leung/ibmcloudvercel)
+[Shop the Frame](https://www.linkedin.com/feed/update/urn:li:activity:7419083506473041920/) 
+
 ## Achievements 
 **Shopify Shop Mini Hackathon 2025** - [Mini Mini games](https://drive.google.com/file/d/1TPEOxkoQP7pX4vgtkfQnZO-scy6GmY96/view?usp=drive_link) | Invited by Shopify to deploy the project to the Shop App (available on the App Store)
 
