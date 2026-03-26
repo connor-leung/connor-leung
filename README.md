@@ -28,7 +28,7 @@
 
 <div align="center">
 
-[![Skills](https://skillicons.dev/icons?i=js,ts,py,java,c,react,nextjs,fastapi,html,css,mongodb,postgres,azure,gcp,figma&perline=8)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=js,ts,py,java,c,react,nextjs,fastapi,html,css,mongodb,postgres,elasticsearch,azure,gcp,figma&perline=8)](https://skillicons.dev)
 
 </div>
 
