@@ -10,7 +10,7 @@
 
 **[IBMCloudVercel Integration](https://vercel.com/marketplace/ibmcloudvercel)** — Bringing the ease of Vercel to IBM Cloud  
 
-**[Shop the Frame](https://www.linkedin.com/feed/update/urn:li:activity:7419083506473041920/)** — Discover the fits your favourite influencers wear
+**[Shop the Frame](https://www.linkedin.com/feed/update/urn:li:activity:7419083506473041920/)** — Discover the fits your favourite influencers wear - Now on the chrome web store
 
 **[Bughouse Chess](https://bughouse-app.vercel.app/)** — 4 Player Chess Variation
 
