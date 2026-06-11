@@ -14,6 +14,8 @@
 
 **[Bughouse Chess](https://bughouse-app.vercel.app/)** — 4 Player Chess Variation
 
+**[Job Application Tracker](https://github.com/connor-leung/job-tracker)** - Easy to use job tracker using Google Sheets
+
 ---
 
 ## Achievements
