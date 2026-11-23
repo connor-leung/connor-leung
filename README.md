@@ -17,13 +17,13 @@ I build full-stack products: real-time apps, AI tools and developer integrations
  
 Real-time four-player team chess in the browser, with lobbies, piece drops, premoves, rematches and team chat.
  
-`Go` `WebSockets` `Next.js` `Zustand` `Fly.io`
+`Go` `WebSockets` `Next.js` `Zustand` 
  
 #### [Shop the Frame](https://github.com/connor-leung/shop-the-frame) · [Watch the demo ↗](https://www.youtube.com/watch?v=0ceemUPquRQ)
  
 A Chrome extension that captures a YouTube frame, detects the clothing in it with Gemini and returns matching Shopify products. Published on the Chrome Web Store.
  
-`Chrome Extension` `Express` `Gemini` `Shopify API` `PostgreSQL` `GCP`
+`Chrome Extension` `Express` `Gemini` `Shopify` `PostgreSQL`
  
 #### [IBMCloudVercel](https://github.com/connor-leung/ibmcloudvercel) · [Vercel Marketplace ↗](https://vercel.com/marketplace/ibmcloudvercel)
  
