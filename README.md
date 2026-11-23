@@ -25,12 +25,6 @@ A Chrome extension that captures a YouTube frame, detects the clothing in it wit
  
 `Chrome Extension` `Express` `Gemini` `Shopify` `PostgreSQL`
  
-#### [IBMCloudVercel](https://github.com/connor-leung/ibmcloudvercel) · [Vercel Marketplace ↗](https://vercel.com/marketplace/ibmcloudvercel)
- 
-A Vercel Marketplace integration that deploys Vercel projects to IBM Cloud Code Engine, with per-branch preview apps and keyless OIDC auth.
- 
-`Python` `IBM Cloud` `Vercel` `OIDC` `Docker`
- 
 #### [Mini Links](https://github.com/connor-leung/shopify-shop-mini-hackathon) · 🏆 Shopify Shop Mini Hackathon 2025
  
 A Connections-style puzzle game built from real products, invited to deploy to Shopify's Shop App.
