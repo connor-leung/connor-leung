@@ -1,44 +1,50 @@
-
 # Connor Leung
-
-**Computer Engineering @ Queen's University**
-
-[![Portfolio](https://img.shields.io/badge/connorleung.com-000000?style=flat-square&logo=safari&logoColor=white)](http://connorleung.com)
+ 
+Computer Engineering @ Queen's University · Prev. SWE @ Microsoft, IBM, TELUS Digital
+ 
+I build full-stack products: real-time apps, AI tools and developer integrations.
+ 
+**Looking for new-grad 2027 software engineering roles.**
+ 
+[![Portfolio](https://img.shields.io/badge/connorleung.com-000000?style=flat-square&logo=safari&logoColor=white)](https://connorleung.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/connorleung/)
-
-## Building
-
-**[IBMCloudVercel Integration](https://vercel.com/marketplace/ibmcloudvercel)** — Bringing the ease of Vercel to IBM Cloud - On Vercel Marketplace (Deprecated) 
-
-**[Shop the Frame](https://www.linkedin.com/feed/update/urn:li:activity:7419083506473041920/)** — Discover the fits your favourite influencers wear - Now on the chrome web store
-
-**[Bughouse Chess](https://bughouse-app.vercel.app/)** — 4 Player Chess Variation
-
-**[Job Application Tracker](https://github.com/connor-leung/job-tracker)** - Easy to use job tracker using Google Sheets
+ 
+---
+ 
+### Featured projects
+ 
+#### [Bughouse Chess](https://github.com/connor-leung/bughouse-app) · [Play it live ↗](https://bughouse-app.vercel.app)
+ 
+Real-time four-player team chess in the browser, with lobbies, piece drops, premoves, rematches and team chat.
+ 
+`Go` `WebSockets` `Next.js` `Zustand` `Fly.io`
+ 
+#### [Shop the Frame](https://github.com/connor-leung/shop-the-frame) · [Watch the demo ↗](https://www.youtube.com/watch?v=0ceemUPquRQ)
+ 
+A Chrome extension that captures a YouTube frame, detects the clothing in it with Gemini and returns matching Shopify products. Published on the Chrome Web Store.
+ 
+`Chrome Extension` `Express` `Gemini` `Shopify API` `PostgreSQL` `GCP`
+ 
+#### [IBMCloudVercel](https://github.com/connor-leung/ibmcloudvercel) · [Vercel Marketplace ↗](https://vercel.com/marketplace/ibmcloudvercel)
+ 
+A Vercel Marketplace integration that deploys Vercel projects to IBM Cloud Code Engine, with per-branch preview apps and keyless OIDC auth.
+ 
+`Python` `IBM Cloud` `Vercel` `OIDC` `Docker`
+ 
+#### [Mini Links](https://github.com/connor-leung/shopify-shop-mini-hackathon) · 🏆 Shopify Shop Mini Hackathon 2025
+ 
+A Connections-style puzzle game built from real products, invited to deploy to Shopify's Shop App.
+ 
+`TypeScript` `React` `Shop Minis SDK` `Python`
+ 
 
 ---
-
-## Achievements
-
-| | Event | Project |
-|---|---|---|
-| 🏆 | Shopify Shop Mini Hackathon 2025 | [Mini Mini Games](https://drive.google.com/file/d/1TPEOxkoQP7pX4vgtkfQnZO-scy6GmY96/view?usp=drive_link) — invited to deploy to the Shop App |
-| 🥇 | QTMA Fall Demo Day 2024 | [FujiPlans](https://github.com/connor-leung/fujiplans) — First Place |
-| 🥇 | QTMA × McKinsey Pitch 2024 | [Dilliad](https://drive.google.com/file/d/1bKyXS41e83-yFnz-H0mG_6YEOsZKts6B/view?usp=drive_link) — First Place |
-| 🏅 | QHacks 2024 | [Dionysus](https://devpost.com/software/god-s-eye-tv7hz8) — Mayor's Innovation Challenge Award |
+ 
+### Tech
+ 
+<img src="https://skillicons.dev/icons?i=ts,js,py,go,java,c,cs,react,nextjs,nodejs,express,fastapi,postgres,mongodb,elasticsearch,azure,gcp,cloudflare,vercel,figma&perline=10" alt="TypeScript, JavaScript, Python, Go, Java, C, C#, React, Next.js, Node.js, Express, FastAPI, PostgreSQL, MongoDB, Elasticsearch, Azure, GCP, Cloudflare, Vercel, Figma"/>
 
 ---
-
-## Stack
-
-<div align="center">
-
-[![Skills](https://skillicons.dev/icons?i=js,ts,py,java,c,react,nextjs,fastapi,html,css,mongodb,postgres,elasticsearch,azure,gcp,figma&perline=8)](https://skillicons.dev)
-
-</div>
-
----
-
-<div align="center">
-<sub>📸 Photography · 🎾 Tennis · Always open to connect</sub>
-</div>
+ 
+<sub>📸 Photography · 🎾 Tennis · Always happy to connect</sub>
+ 
