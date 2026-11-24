@@ -2,8 +2,6 @@
  
 Computer Engineering @ Queen's University · Prev. SWE @ Microsoft, IBM, TELUS Digital
  
-I build full-stack products: real-time apps, AI tools and developer integrations.
- 
 **Looking for new-grad 2027 software engineering roles.**
  
 [![Portfolio](https://img.shields.io/badge/connorleung.com-000000?style=flat-square&logo=safari&logoColor=white)](https://connorleung.com)
