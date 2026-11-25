@@ -17,7 +17,7 @@ Real-time four-player team chess in the browser, with lobbies, piece drops, prem
  
 `Go` `WebSockets` `Next.js` `Zustand` 
  
-#### [Shop the Frame](https://github.com/connor-leung/shop-the-frame) · [Find it here ↗](https://chromewebstore.google.com/detail/shop-the-frame/deioocfbjgnlcliejnmfohnkncdihjdf)
+#### [Shop the Frame] · [Find it here ↗](https://chromewebstore.google.com/detail/shop-the-frame/deioocfbjgnlcliejnmfohnkncdihjdf)
  
 A Chrome extension that captures a YouTube frame, detects the clothing in it with Gemini and returns matching Shopify products. Published on the Chrome Web Store.
  
