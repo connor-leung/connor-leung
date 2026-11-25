@@ -11,7 +11,7 @@ Computer Engineering @ Queen's University · Prev. SWE @ Microsoft, IBM, TELUS D
  
 ### Featured projects
  
-#### [Bughouse Chess](https://github.com/connor-leung/bughouse-app) · [Play it live ↗](https://bughouse-app.vercel.app)
+#### [Bughouse Chess](https://github.com/connor-leung/bughouse-app) · [Play it live ↗](https://bughouse.connorleung.com/)
  
 Real-time four-player team chess in the browser, with lobbies, piece drops, premoves, rematches and team chat.
  
