@@ -19,7 +19,7 @@ Real-time four-player team chess in the browser, with lobbies, piece drops, prem
  
 #### [Shop the Frame] · [Find it here ↗](https://chromewebstore.google.com/detail/shop-the-frame/deioocfbjgnlcliejnmfohnkncdihjdf)
  
-A Chrome extension that captures a YouTube frame, detects the clothing in it with Gemini and returns matching Shopify products. Published on the Chrome Web Store.
+A Chrome extension that captures a YouTube frame, detects the clothing in it with Gemini and returns matching Shopify products. Published on the Chrome Web Store with 1,000 downloads.
  
 `Chrome Extension` `Express` `Gemini` `Shopify` `PostgreSQL`
  
