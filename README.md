@@ -25,7 +25,7 @@ A Chrome extension that captures a YouTube frame, detects the clothing in it wit
  
 #### [Mini Links](https://github.com/connor-leung/shopify-shop-mini-hackathon) · 🏆 Shopify Shop Mini Hackathon 2025
  
-A Connections-style puzzle game built from real products, invited to deploy to Shopify's Shop App.
+A Connections-style puzzle game built from real products, invited to deploy to Shopify's Shop App. Check it out on the Shop app.
  
 `TypeScript` `React` `Shop Minis SDK` `Python`
  
